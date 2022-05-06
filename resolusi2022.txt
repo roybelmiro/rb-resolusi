@@ -4,3 +4,6 @@ Mei
 - Belajar GIT
 - Menyelesaikan Kelas Design dan Laravel
 - Belajar ReactJS
+
+Juni
+- Fokus Mendaftar Pekerjaan
